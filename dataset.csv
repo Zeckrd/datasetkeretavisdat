@@ -1,0 +1,16 @@
+Route_ID,Train_Name,Start_Station,End_Station,Intermediate_Stations,Latitude,Longitude,City,Region,Type
+1,Argo Parahyangan,Bandung,Jakarta Gambir,"Cimahi, Purwakarta",-6.914744,107.609810,Bandung,West Java,Intercity
+2,KRL Commuter,Bogor,Jakarta Kota,"Cilebut, Depok, Manggarai",-6.596163,106.806306,Bogor,West Java,Commuter
+3,Cibatu Local,Bandung,Cibatu,"Rancaekek, Cicalengka",-6.934469,107.604353,Bandung,West Java,Local
+4,Pangarango,Sukabumi,Bogor,"Cicurug, Cijeruk",-6.926941,106.927475,Sukabumi,West Java,Local
+5,Walahar Express,Purwakarta,Jakarta Kota,"Karawang, Bekasi",-6.556088,107.446207,Purwakarta,West Java,Commuter
+6,Serayu,Banjar,Jakarta Pasar Senen,"Tasikmalaya, Ciamis, Bandung",-7.370122,108.533304,Banjar,West Java,Intercity
+7,Lodaya,Bandung,Solo Balapan,"Tasikmalaya, Banjar",-6.914744,107.609810,Bandung,West Java,Intercity
+8,Kutojaya Selatan,Kiaracondong,Kutoarjo,"Cicalengka, Garut",-6.948289,107.640475,Bandung,West Java,Intercity
+9,Siliwangi,Cianjur,Sukabumi,"Ciranjang, Cipatat",-6.807488,107.142778,Cianjur,West Java,Local
+10,Parahyangan Local,Bandung,Padalarang,Cimahi,-6.914744,107.609810,Bandung,West Java,Commuter
+11,Rajawali,Cirebon,Jakarta Pasar Senen,"Jatibarang, Karawang",-6.717064,108.556117,Cirebon,West Java,Intercity
+12,KRL Commuter,Bekasi,Jakarta Kota,"Jatinegara, Manggarai",-6.238270,106.975573,Bekasi,West Java,Commuter
+13,Ciremai,Bandung,Semarang Tawang,"Cirebon, Brebes",-6.914744,107.609810,Bandung,West Java,Intercity
+14,Argo Wilis,Bandung,Surabaya Gubeng,"Tasikmalaya, Banjar",-6.914744,107.609810,Bandung,West Java,Intercity
+15,Jatiluhur,Cikampek,Jakarta Kota,Bekasi,-6.428539,107.452774,Cikampek,West Java,Commuter
